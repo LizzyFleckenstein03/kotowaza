@@ -1,0 +1,3 @@
+[submodule "nihongo-benkyou"]
+	path = nihongo-benkyou
+	url = https://github.com/dpapathanasiou/nihongo-benkyou
